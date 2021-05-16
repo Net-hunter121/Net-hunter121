@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yasser Khan and im a Penetration Tester. CIT student and technology enthusiast.
+- 👋 Hi, I’m Yasser Khan and im a Penetration Tester, CIT student and technology enthusiast.
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Both Side of Offensive and Defensive Security
 - 💞️ I’m looking to collaborate on Building a Open-Source Project for the Community.
